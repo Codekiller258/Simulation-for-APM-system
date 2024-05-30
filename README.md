@@ -21,4 +21,5 @@ The `modelAI` directory is the model to run the current APM system, it is where 
 The `Output` directory is the place where I run the final models and get outputs, it is where we can change the parameters, doing tests, etc....
 
 ### How to get outputs
+Firstly, you have to download this file to your local PC, open it with IDE.
 To get the output, go to `Output` directory. Change the parameters (if you want) at the top and run the cell.
